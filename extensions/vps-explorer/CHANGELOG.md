@@ -1,14 +1,11 @@
 # VPS Explorer Changelog
 
-<<<<<<< HEAD
 ## [1.1.1] - 2025-11-13
 
 ### Fixed
 
 - Fixed issue with file upload and download not working correctly
 
-=======
->>>>>>> contributions/merge-1763039199604
 ## [1.1.0] - 2025-11-11
 
 ### Added
@@ -31,9 +28,3 @@
 - Passwords passed to expect scripts via `VPS_SSH_PASSWORD` environment variable
 - Temporary scripts are created with owner-only permissions (0o700)
 - Automatic cleanup of temporary authentication scripts
-
-<<<<<<< HEAD
-=======
-
->>>>>>> contributions/merge-1763039199604
-## [Initial Version] - 2025-11-11
